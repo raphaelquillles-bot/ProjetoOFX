@@ -1,0 +1,5 @@
+extrato.ofx
+.venv/
+venv/
+__pycache__/
+*.py[cod]
